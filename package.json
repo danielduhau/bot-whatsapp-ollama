@@ -1,0 +1,15 @@
+{
+  "name": "bot-whatsapp-ollama",
+  "version": "1.0.0",
+  "main": "bot.js",
+  "scripts": {
+    "start": "node bot.js"
+  },
+  "dependencies": {
+    "@whiskeysockets/baileys": "^7.2.0",
+    "axios": "^1.4.0",
+    "dotenv": "^16.0.0",
+    "qrcode-terminal": "^0.12.0",
+    "pino": "^8.0.0"
+  }
+}
